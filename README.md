@@ -1,10 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=600&size=32&duration=2500&pause=200&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hi.+I'm+Guilherme+Monteiro.;I'm+a+Frontend+and+UI%2FUX+Designer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=800&size=42&duration=3000&pause=200&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=Hi.+I'm+Guilherme+Monteiro.;I'm+a+Frontend+and+UI%2FUX+Designer.)](https://git.io/typing-svg)
+
 
 ![Social banner for MrGuizao](https://github.com/MrGuizao/MrGuizao/blob/main/Github.jpg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGuizao&show_icons=true&theme=transparent)
 
 
-<div style="display: inline_block">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGuizao&show_icons=true&theme=transparent)
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGuizao&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0D1017" />
+
+
+<div align="center">
   <img align="center" alt="gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gui-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
