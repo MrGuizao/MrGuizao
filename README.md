@@ -1,6 +1,6 @@
 ### Hi. I'm Guilherme Monteiro.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGuizao&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGuizao&show_icons=true&theme=transparent&width=100%)
 
 <!--
 **MrGuizao/MrGuizao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
