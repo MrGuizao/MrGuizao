@@ -1,4 +1,4 @@
-# Hi. I'm Guilherme Monteiro.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=600&size=32&duration=2500&pause=200&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hi.+I'm+Guilherme+Monteiro.;I'm+a+Frontend+and+UI%2FUX+Designer.)](https://git.io/typing-svg)
 
 ![Social banner for MrGuizao](https://github.com/MrGuizao/MrGuizao/blob/main/Github.jpg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGuizao&show_icons=true&theme=transparent)
