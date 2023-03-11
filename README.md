@@ -4,8 +4,15 @@
 [![Social banner for MrGuizao](https://github.com/MrGuizao/MrGuizao/blob/main/Github.jpg)](https://www.behance.net/guilhermonteir12)
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGuizao&show_icons=true&theme=transparent)
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGuizao&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0D1017" />
+<div align="center">  
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrGuizao&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=009999&bg_color=0D1017" alt="guilherme github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGuizao&layout=compact&hide_border=true&title_color=00ffff&text_color=00ffff&bg_color=0D1017" />
+</div>
+
+
+
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGuizao&show_icons=true&theme=transparent)
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGuizao&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0D1017" /> -->
 
 
 <div align="center">
