@@ -1,6 +1,6 @@
 # Hi. I'm Guilherme Monteiro.
-[![Social banner for MrGuizao](https://github.com/MrGuizao/MrGuizao/blob/main/github.jpg)
 
+![Social banner for MrGuizao](https://github.com/MrGuizao/MrGuizao/blob/main/Github.jpg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGuizao&show_icons=true&theme=transparent)
 
 
