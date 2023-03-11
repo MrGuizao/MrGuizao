@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=800&size=42&duration=3000&pause=200&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=Hi.+I'm+Guilherme+Monteiro.;I'm+a+Frontend+and+UI%2FUX+Designer.)](https://git.io/typing-svg)
 
 
-![Social banner for MrGuizao](https://github.com/MrGuizao/MrGuizao/blob/main/Github.jpg)
+[![Social banner for MrGuizao](https://github.com/MrGuizao/MrGuizao/blob/main/Github.jpg)](https://www.behance.net/guilhermonteir12)
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGuizao&show_icons=true&theme=transparent)
